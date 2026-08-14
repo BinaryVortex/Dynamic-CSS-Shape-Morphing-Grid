@@ -1,3 +1,7 @@
+<div align="center">
+<img src="logo.png" alt="FUTURA Logo" width="1000"/>
+</div>
+
 # Dynamic CSS Shape Morphing Grid
 
 A lightweight frontend experiment that explores **dynamic shape morphing, grid layouts, and CSS-based animation** using plain HTML, CSS, and JavaScript.
